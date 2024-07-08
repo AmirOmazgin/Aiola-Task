@@ -18,5 +18,5 @@ Install the dependencies by running the command:npm install
 
 # Running the Tests
 - open the folder
-- choose Test from test folder
+- choose Test.spec.js from test folder
 - type npx playwright test Test.spec.js
