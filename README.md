@@ -16,8 +16,7 @@ Navigate to the project directory in your terminal.
 
 Install the dependencies by running the command:npm install
 
-Running the Tests
-To run the playwright test, follow these steps:
+# Running the Tests
 - open the folder
 - choose Test from test folder
 - type npx playwright test Test.spec.js
